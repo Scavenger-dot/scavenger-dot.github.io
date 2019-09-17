@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://scavenger-dot.github.io</id>
     <title>Scavenger</title>
-    <updated>2019-09-17T07:56:26.222Z</updated>
+    <updated>2019-09-17T07:58:14.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://scavenger-dot.github.io"/>
     <link rel="self" href="https://scavenger-dot.github.io/atom.xml"/>
@@ -19,8 +19,8 @@
         <content type="html"><![CDATA[<p>听很多大牛说写博客对于一个程序员来说非常重要，然而写博客的方式也有很多，可以在CDSN，掘金，博客园等等一系列的博客网站上写，也可以自己搭建一个博客网站。<br>
 目前流行的博客搭建框架有hexo,以及今天要介绍的用go语言写的轻量级的静态博客网站（目前越来越流行，优点：轻量级，响应速度快；缺点：功能较少，需要自己安装插件装饰，完善功能）。<br>
 <strong>安装</strong><br>
-在<a href="https://github.com/gohugoio/hugo/releases">https://github.com/gohugoio/hugo/releases</a>通过git clone下载。<br>
-<img src="https://scavenger-dot.github.io/post-images/1568705918801.PNG" alt=""></p>
+在<a href="https://github.com/gohugoio/hugo/releases">https://github.com/gohugoio/hugo/releases</a>通过git clone下载。</p>
+<p><img src="https://scavenger-dot.github.io/post-images/1568705918801.PNG" alt=""></p>
 <p>在E盘根目录新建一个hugo文件夹，将下载的压缩包在里面解压出来。<br>
 <img src="https://scavenger-dot.github.io/post-images/1568702868802.PNG" alt=""><br>
 <strong>配置环境变量</strong><br>
